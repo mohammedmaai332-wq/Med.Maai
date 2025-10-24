@@ -46,7 +46,7 @@
 
 ### 📫 Contact Me
 
-- 💌 **Email:** [your-email@example.com](maai0478@gmail.com)  
+- 💌 **Email:** [my-email@example.com](maai0478@gmail.com)  
 - 🧠 **GitHub:** [github.com/mohammed-maai]()  
 - 🎥 **YouTube:** [youtube.com/@mohammedmaai](@MMaai-l5i)
 
