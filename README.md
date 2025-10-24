@@ -47,8 +47,8 @@
 ### 📫 Contact Me
 
 - 💌 **Email:** [your-email@example.com](maai0478@gmail.com)  
-- 🧠 **GitHub:** [github.com/mohammed-maai](Med.Maai)  
-- 🎥 **YouTube:** [youtube.com/@mohammedmaai](M.Maai)
+- 🧠 **GitHub:** [github.com/mohammed-maai]()  
+- 🎥 **YouTube:** [youtube.com/@mohammedmaai](@MMaai-l5i)
 
 ---
 
